@@ -10,5 +10,3 @@ GOALS:
 -CRC16 calculation and auto-append to string, that is being send
 -history of sent strings
 -auto-repeat sending with given interval
-
-add
